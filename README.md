@@ -42,6 +42,12 @@
 ## 开发
 
 ```bash
+# 克隆项目
+git clone https://github.com/NicolasLemon/ruoyi-vue2-template-lite.git
+
+# 进入项目目录
+cd ruoyi-ui
+
 # 安装依赖
 npm install
 
