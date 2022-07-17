@@ -86,9 +86,9 @@ npm run build:prod
 
 * cssrem（可选）
   
-  vs code插件，写代码时，可以提示将px转换成rem
+  vs code插件，写代码时，可以提示将`px`转换成`rem`
 
-### 配置flexible
+### flexible
 
 #### 引入
 
@@ -125,7 +125,7 @@ npm run build:prod
   }
   ```
 
-### 配置postcss-plugin-px2rem
+### postcss-plugin-px2rem
 
 * 修改`vue.config.js`
   
